@@ -1,0 +1,15 @@
+{
+  "name": "DO-IT",
+  "version": "0.0.0",
+  "description": "Simple DoIt application.",
+  "main": "server.js",
+  "author": "Scotch",
+  "dependencies": {
+    "body-parser": "^1.5.2",
+    "express": "^4.7.4",
+    "method-override": "~2.1.2",
+    "mongodb": "^2.2.30",
+    "mongoose": "^3.6.20",
+    "morgan": "^1.2.3"
+  }
+}
